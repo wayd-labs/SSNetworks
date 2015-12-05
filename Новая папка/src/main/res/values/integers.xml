@@ -1,5 +1,0 @@
-<resources>
-    <!--todo: put your own id-->
-    <integer name="com_vk_sdk_AppId">-1</integer>
-
-</resources>
