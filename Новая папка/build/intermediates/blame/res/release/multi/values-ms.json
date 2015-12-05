@@ -1,0 +1,482 @@
+[
+    {
+        "outputFile": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/res/merged/release/values-ms/values-ms.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endLine": 7,
+                        "endColumn": 14,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endLine": 11,
+                        "endColumn": 14,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endLine": 15,
+                        "endColumn": 14,
+                        "endOffset": 1005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endLine": 17,
+                    "endColumn": 14,
+                    "endOffset": 1138
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1010,
+                        "endLine": 19,
+                        "endColumn": 14,
+                        "endOffset": 1268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1143,
+                    "endLine": 21,
+                    "endColumn": 14,
+                    "endOffset": 1398
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1273,
+                        "endLine": 23,
+                        "endColumn": 14,
+                        "endOffset": 1528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1403,
+                    "endLine": 25,
+                    "endColumn": 14,
+                    "endOffset": 1666
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1533,
+                        "endLine": 27,
+                        "endColumn": 14,
+                        "endOffset": 1796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1671,
+                    "endLine": 29,
+                    "endColumn": 14,
+                    "endOffset": 1939
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1801,
+                        "endLine": 31,
+                        "endColumn": 14,
+                        "endOffset": 2069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1944,
+                    "endLine": 33,
+                    "endColumn": 14,
+                    "endOffset": 2211
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2074,
+                        "endLine": 35,
+                        "endColumn": 14,
+                        "endOffset": 2341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2216,
+                    "endLine": 37,
+                    "endColumn": 14,
+                    "endOffset": 2453
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2346,
+                        "endLine": 39,
+                        "endColumn": 14,
+                        "endOffset": 2583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2458,
+                    "endLine": 41,
+                    "endColumn": 14,
+                    "endOffset": 2701
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2588,
+                        "endLine": 43,
+                        "endColumn": 14,
+                        "endOffset": 2831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2706,
+                    "endLine": 45,
+                    "endColumn": 14,
+                    "endOffset": 2947
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2836,
+                        "endLine": 47,
+                        "endColumn": 14,
+                        "endOffset": 3077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2952,
+                    "endLine": 49,
+                    "endColumn": 14,
+                    "endOffset": 3192
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3082,
+                        "endLine": 51,
+                        "endColumn": 14,
+                        "endOffset": 3322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3197,
+                    "endLine": 53,
+                    "endColumn": 14,
+                    "endOffset": 3443
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3327,
+                        "endLine": 55,
+                        "endColumn": 14,
+                        "endOffset": 3573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3448,
+                    "endLine": 57,
+                    "endColumn": 14,
+                    "endOffset": 3701
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3578,
+                        "endLine": 59,
+                        "endColumn": 14,
+                        "endOffset": 3831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3706,
+                    "endLine": 61,
+                    "endColumn": 14,
+                    "endOffset": 3957
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3836,
+                        "endLine": 63,
+                        "endColumn": 14,
+                        "endOffset": 4087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3962,
+                    "endLine": 65,
+                    "endColumn": 14,
+                    "endOffset": 4209
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4092,
+                        "endLine": 67,
+                        "endColumn": 14,
+                        "endOffset": 4339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4214,
+                    "endLine": 69,
+                    "endColumn": 14,
+                    "endOffset": 4470
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4344,
+                        "endLine": 71,
+                        "endColumn": 14,
+                        "endOffset": 4600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4475,
+                    "endLine": 73,
+                    "endColumn": 14,
+                    "endOffset": 4737
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4605,
+                        "endLine": 75,
+                        "endColumn": 14,
+                        "endOffset": 4867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4742,
+                    "endLine": 77,
+                    "endColumn": 14,
+                    "endOffset": 5002
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4872,
+                        "endLine": 79,
+                        "endColumn": 14,
+                        "endOffset": 5132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5007,
+                    "endColumn": 65,
+                    "endOffset": 5068
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5279,
+                        "endColumn": 65,
+                        "endOffset": 5340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5073,
+                    "endColumn": 129,
+                    "endOffset": 5198
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 5475,
+                        "endColumn": 129,
+                        "endOffset": 5600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5203,
+                    "endColumn": 129,
+                    "endOffset": 5328
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5605,
+                        "endColumn": 129,
+                        "endOffset": 5730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5333,
+                    "endColumn": 150,
+                    "endOffset": 5479
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/TheRing/ssnetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5735,
+                        "endColumn": 150,
+                        "endOffset": 5881
+                    }
+                }
+            }
+        ]
+    }
+]

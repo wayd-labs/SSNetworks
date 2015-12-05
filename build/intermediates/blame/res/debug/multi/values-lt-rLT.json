@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/res/merged/debug/values-lt-rLT/values-lt-rLT.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-lt-rLT/values-lt-rLT.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 66,
+                        "endOffset": 263
+                    }
+                }
+            }
+        ]
+    }
+]

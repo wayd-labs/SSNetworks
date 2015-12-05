@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.e16din.ssnetworks"
+    android:versionCode="1"
+    android:versionName="1.0" > <!-- TODO: add this to your application manifest -->
+    <!-- <application -->
+    <!-- android:name=".apps.SSNetworksAppliacation" -->
+    <!-- android:allowBackup="true" -->
+    <!-- android:label="@string/app_name" -->
+    <!-- android:supportsRtl="true"> -->
+    <!-- &lt;!&ndash;todo: VKONTAKTE &ndash;&gt; -->
+    <!-- <activity android:name="com.vk.sdk.VKOpenAuthActivity" /> -->
+    <!-- <activity -->
+    <!-- android:name="com.vk.sdk.VKServiceActivity" -->
+    <!-- android:label="ServiceActivity" -->
+    <!-- android:theme="@style/VK.Transparent" /> -->
+    <!-- &lt;!&ndash;todo: FACEBOOK &ndash;&gt; -->
+    <!-- &lt;!&ndash;todo: TWITTER &ndash;&gt; -->
+    <!-- &lt;!&ndash;todo: ODNOKLASSNIKI &ndash;&gt; -->
+    <!-- </application> -->
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="23" />
+
+</manifest>

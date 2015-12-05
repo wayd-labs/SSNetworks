@@ -1,0 +1,862 @@
+[
+    {
+        "outputFile": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/res/merged/androidTest/debug/values-ko/values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endLine": 7,
+                        "endColumn": 14,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endLine": 11,
+                        "endColumn": 14,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 835
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endLine": 15,
+                        "endColumn": 14,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 840,
+                    "endLine": 17,
+                    "endColumn": 14,
+                    "endOffset": 1082
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 970,
+                        "endLine": 19,
+                        "endColumn": 14,
+                        "endOffset": 1212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1087,
+                    "endLine": 21,
+                    "endColumn": 14,
+                    "endOffset": 1325
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1217,
+                        "endLine": 23,
+                        "endColumn": 14,
+                        "endOffset": 1455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1330,
+                    "endLine": 25,
+                    "endColumn": 14,
+                    "endOffset": 1573
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1460,
+                        "endLine": 27,
+                        "endColumn": 14,
+                        "endOffset": 1703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1578,
+                    "endLine": 29,
+                    "endColumn": 14,
+                    "endOffset": 1820
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1708,
+                        "endLine": 31,
+                        "endColumn": 14,
+                        "endOffset": 1950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1825,
+                    "endLine": 33,
+                    "endColumn": 14,
+                    "endOffset": 2068
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1955,
+                        "endLine": 35,
+                        "endColumn": 14,
+                        "endOffset": 2198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2073,
+                    "endLine": 37,
+                    "endColumn": 14,
+                    "endOffset": 2306
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2203,
+                        "endLine": 39,
+                        "endColumn": 14,
+                        "endOffset": 2436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2311,
+                    "endLine": 41,
+                    "endColumn": 14,
+                    "endOffset": 2544
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2441,
+                        "endLine": 43,
+                        "endColumn": 14,
+                        "endOffset": 2674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2549,
+                    "endLine": 45,
+                    "endColumn": 14,
+                    "endOffset": 2782
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2679,
+                        "endLine": 47,
+                        "endColumn": 14,
+                        "endOffset": 2912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2787,
+                    "endLine": 49,
+                    "endColumn": 14,
+                    "endOffset": 3017
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2917,
+                        "endLine": 51,
+                        "endColumn": 14,
+                        "endOffset": 3147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3022,
+                    "endLine": 53,
+                    "endColumn": 14,
+                    "endOffset": 3256
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3152,
+                        "endLine": 55,
+                        "endColumn": 14,
+                        "endOffset": 3386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3261,
+                    "endLine": 57,
+                    "endColumn": 14,
+                    "endOffset": 3496
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3391,
+                        "endLine": 59,
+                        "endColumn": 14,
+                        "endOffset": 3626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3501,
+                    "endLine": 61,
+                    "endColumn": 14,
+                    "endOffset": 3736
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3631,
+                        "endLine": 63,
+                        "endColumn": 14,
+                        "endOffset": 3866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3741,
+                    "endLine": 65,
+                    "endColumn": 14,
+                    "endOffset": 3971
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3871,
+                        "endLine": 67,
+                        "endColumn": 14,
+                        "endOffset": 4101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3976,
+                    "endLine": 69,
+                    "endColumn": 14,
+                    "endOffset": 4212
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4106,
+                        "endLine": 71,
+                        "endColumn": 14,
+                        "endOffset": 4342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4217,
+                    "endLine": 73,
+                    "endColumn": 14,
+                    "endOffset": 4453
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4347,
+                        "endLine": 75,
+                        "endColumn": 14,
+                        "endOffset": 4583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4458,
+                    "endLine": 77,
+                    "endColumn": 14,
+                    "endOffset": 4694
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4588,
+                        "endLine": 79,
+                        "endColumn": 14,
+                        "endOffset": 4824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4699,
+                    "endColumn": 94,
+                    "endOffset": 4789
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 94,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4794,
+                    "endColumn": 107,
+                    "endOffset": 4897
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 107,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4902,
+                    "endColumn": 122,
+                    "endOffset": 5020
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 122,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5025,
+                    "endColumn": 93,
+                    "endOffset": 5114
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 555,
+                        "endColumn": 93,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5119,
+                    "endColumn": 101,
+                    "endOffset": 5216
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endColumn": 101,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5221,
+                    "endColumn": 81,
+                    "endOffset": 5298
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 81,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5303,
+                    "endColumn": 97,
+                    "endOffset": 5396
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 97,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5401,
+                    "endColumn": 105,
+                    "endOffset": 5502
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endColumn": 105,
+                        "endOffset": 1032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5507,
+                    "endColumn": 78,
+                    "endOffset": 5581
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1037,
+                        "endColumn": 78,
+                        "endOffset": 1111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5586,
+                    "endColumn": 75,
+                    "endOffset": 5657
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1116,
+                        "endColumn": 75,
+                        "endOffset": 1187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5662,
+                    "endColumn": 79,
+                    "endOffset": 5737
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1192,
+                        "endColumn": 79,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 5742,
+                    "endColumn": 97,
+                    "endOffset": 5835
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1272,
+                        "endColumn": 97,
+                        "endOffset": 1365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 5840,
+                    "endColumn": 94,
+                    "endOffset": 5930
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1370,
+                        "endColumn": 94,
+                        "endOffset": 1460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 5935,
+                    "endColumn": 94,
+                    "endOffset": 6025
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1465,
+                        "endColumn": 94,
+                        "endOffset": 1555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6030,
+                    "endColumn": 99,
+                    "endOffset": 6125
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1560,
+                        "endColumn": 99,
+                        "endOffset": 1655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6130,
+                    "endColumn": 95,
+                    "endOffset": 6221
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1660,
+                        "endColumn": 95,
+                        "endOffset": 1751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6226,
+                    "endColumn": 98,
+                    "endOffset": 6320
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1756,
+                        "endColumn": 98,
+                        "endOffset": 1850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6325,
+                    "endColumn": 114,
+                    "endOffset": 6435
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1855,
+                        "endColumn": 114,
+                        "endOffset": 1965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6440,
+                    "endColumn": 93,
+                    "endOffset": 6529
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1970,
+                        "endColumn": 93,
+                        "endOffset": 2059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6534,
+                    "endColumn": 65,
+                    "endOffset": 6595
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 4971,
+                        "endColumn": 65,
+                        "endOffset": 5032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 6600,
+                    "endColumn": 124,
+                    "endOffset": 6720
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 5167,
+                        "endColumn": 124,
+                        "endOffset": 5287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 6725,
+                    "endColumn": 124,
+                    "endOffset": 6845
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5292,
+                        "endColumn": 124,
+                        "endOffset": 5412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 6850,
+                    "endColumn": 150,
+                    "endOffset": 6996
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5417,
+                        "endColumn": 150,
+                        "endOffset": 5563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7001,
+                    "endColumn": 100,
+                    "endOffset": 7097
+                },
+                "from": {
+                    "file": "/Users/N1_IT_businesman_of_rostov/Documents/Projects/Alfa-Maria/SSNetworks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2064,
+                        "endColumn": 100,
+                        "endOffset": 2160
+                    }
+                }
+            }
+        ]
+    }
+]
