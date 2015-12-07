@@ -29,6 +29,13 @@ import com.vk.sdk.api.photo.VKUploadImage;
  */
 public class Vkontakte extends SSNetwork {
 
+    public static final int ACTION_NONE = -1;
+    public static final int ACTION_AUTH = 0;
+    public static final int ACTION_POST = 1;
+
+    private int currentAction = ACTION_AUTH;
+    private OnAuthListener authListener;
+
     private Vkontakte() {
     }
 
@@ -51,6 +58,7 @@ public class Vkontakte extends SSNetwork {
             return;
         }
 
+        currentAction = ACTION_POST;
         if (authIfNeed(activity, text)) return;
 
         VKRequest request = VKApi.uploadWallPhotoRequest(
@@ -93,13 +101,19 @@ public class Vkontakte extends SSNetwork {
         });
     }
 
+    public void auth(Activity activity, String[] scope, OnAuthListener listener) {
+        authListener = listener;
+        currentAction = ACTION_AUTH;
+        VKSdk.login(activity, scope);
+    }
+
     //true if need authorization
     private boolean authIfNeed(Activity activity, String text) {
         if (!VKSdk.isLoggedIn()) {
             DataManager.getInstance().save(VKApiConst.MESSAGE, text);
             String[] VK_SCOPE = new String[]{VKScope.WALL,
                     VKScope.PHOTOS};
-            VKSdk.login(activity, VK_SCOPE);
+            auth(activity, VK_SCOPE, null);
             return true;
         }
         return false;
@@ -109,6 +123,7 @@ public class Vkontakte extends SSNetwork {
     public void post(Activity activity, String text, SSListener listener) {
         super.post(activity, text, listener);
 
+        currentAction = ACTION_POST;
         if (authIfNeed(activity, text)) return;
 
         VKRequest request = VKApi.wall().post(
@@ -142,13 +157,39 @@ public class Vkontakte extends SSNetwork {
         return VKSdk.onActivityResult(requestCode, resultCode, data, new VKCallback<VKAccessToken>() {
             @Override
             public void onResult(VKAccessToken res) {
-                post(activity, SSNetwork.getBitmap(), SSNetwork.getText(), getListener());
+                switch (currentAction) {
+                    case ACTION_AUTH:
+                        if (authListener != null)
+                            authListener.onSuccess(
+                                    VKSdk.getAccessToken().accessToken,
+                                    VKSdk.getAccessToken().userId);
+                        break;
+                    case ACTION_POST:
+                        post(activity, SSNetwork.getBitmap(), SSNetwork.getText(), getListener());
+                        break;
+                }
+
+                currentAction = ACTION_NONE;
             }
 
             @Override
             public void onError(VKError error) {
+                switch (currentAction) {
+                    case ACTION_AUTH:
+                        if (authListener != null)
+                            authListener.onError("error: " + error.errorMessage);
+                        break;
+                }
+
+
                 U.e(getClass(), "error: " + error.errorMessage);
             }
         });
+    }
+
+    public interface OnAuthListener {
+        void onSuccess(String accessToken, String userId);
+
+        void onError(String message);
     }
 }
