@@ -1,6 +1,6 @@
 package com.e16din.ssnetworks.apps;
 
-import android.app.Application;
+import android.support.multidex.MultiDexApplication;
 import android.util.Log;
 
 import com.e16din.lightutils.DataManager;
@@ -11,7 +11,7 @@ import com.vk.sdk.VKSdk;
 /**
  * Created by e16din on 12.09.15.
  */
-public class SSNetworksAppliacation extends Application {
+public class SSNetworksMultidexApplication extends MultiDexApplication {
 
     private VKAccessTokenTracker vkAccessTokenTracker = new VKAccessTokenTracker() {
         @Override
