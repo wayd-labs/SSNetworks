@@ -21,6 +21,26 @@ public class SSMaster {
     public static final int ID_INSTAGRAM = 4;
 
 
+    public static void authVkontakte(Activity activity, String[] scope, Vkontakte.OnAuthListener listener) {
+        Vkontakte.getInstance().auth(activity, scope, listener);
+    }
+
+    public static void authFacebook(Activity activity) {
+        //todo:
+    }
+
+    public static void authTwitter(Activity activity) {
+        //todo:
+    }
+
+    public static void authOdnoclassniki(Activity activity) {
+        //todo:
+    }
+
+    public static void authInstagram(Activity activity) {
+        //todo:
+    }
+
     public static void post(int networkId, Activity activity, Bitmap bitmap, String text, SSListener listener) {
         switch (networkId) {
             case ID_VKONTAKTE:
