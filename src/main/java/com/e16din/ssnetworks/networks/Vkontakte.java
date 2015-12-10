@@ -177,7 +177,7 @@ public class Vkontakte extends SSNetwork {
             public void onError(VKError error) {
                 switch (currentAction) {
                     case ACTION_AUTH:
-                        if (authListener != null && TextUtils.isEmpty(error.errorMessage))
+                        if (authListener != null && !TextUtils.isEmpty(error.errorMessage))
                             authListener.onError("error: " + error.errorMessage);
                         break;
                 }
