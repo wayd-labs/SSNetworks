@@ -3,6 +3,7 @@ package com.e16din.ssnetworks.networks;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.text.TextUtils;
 
 import com.e16din.lightutils.DataManager;
 import com.e16din.lightutils.utils.U;
@@ -176,7 +177,7 @@ public class Vkontakte extends SSNetwork {
             public void onError(VKError error) {
                 switch (currentAction) {
                     case ACTION_AUTH:
-                        if (authListener != null)
+                        if (authListener != null && TextUtils.isEmpty(error.errorMessage))
                             authListener.onError("error: " + error.errorMessage);
                         break;
                 }
