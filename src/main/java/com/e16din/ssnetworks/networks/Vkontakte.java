@@ -3,7 +3,6 @@ package com.e16din.ssnetworks.networks;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
-import android.text.TextUtils;
 
 import com.e16din.lightutils.DataManager;
 import com.e16din.lightutils.utils.U;
@@ -97,7 +96,7 @@ public class Vkontakte extends SSNetwork {
                 U.e(getClass(), "error: " + error);
 
                 if (listener != null)
-                    listener.onError(error.errorMessage, error);
+                    listener.onError((error != null ? error.errorMessage : null), error);
             }
         });
     }
@@ -145,10 +144,10 @@ public class Vkontakte extends SSNetwork {
 
             @Override
             public void onError(VKError error) {
-                U.e(getClass(), "error: " + error.errorMessage);
+                U.e(getClass(), "error: " + (error != null ? error.errorMessage : null));
 
                 if (listener != null)
-                    listener.onError(error.errorMessage, error);
+                    listener.onError(error != null ? error.errorMessage : null, error);
             }
         });
     }
@@ -160,10 +159,11 @@ public class Vkontakte extends SSNetwork {
             public void onResult(VKAccessToken res) {
                 switch (currentAction) {
                     case ACTION_AUTH:
-                        if (authListener != null)
+                        if (authListener != null) {
                             authListener.onSuccess(
                                     VKSdk.getAccessToken().accessToken,
                                     VKSdk.getAccessToken().userId);
+                        }
                         break;
                     case ACTION_POST:
                         post(activity, SSNetwork.getBitmap(), SSNetwork.getText(), getListener());
@@ -177,13 +177,13 @@ public class Vkontakte extends SSNetwork {
             public void onError(VKError error) {
                 switch (currentAction) {
                     case ACTION_AUTH:
-                        if (authListener != null && !TextUtils.isEmpty(error.errorMessage))
-                            authListener.onError("error: " + error.errorMessage);
+                        if (authListener != null)
+                            authListener.onError("error: " + (error != null ? error.errorMessage : null));
                         break;
                 }
 
 
-                U.e(getClass(), "error: " + error.errorMessage);
+                U.e(getClass(), "error: " + (error != null ? error.errorMessage : null));
             }
         });
     }
