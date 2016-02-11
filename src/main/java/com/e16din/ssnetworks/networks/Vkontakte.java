@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
 
-import com.e16din.lightutils.DataManager;
+import com.e16din.lightutils.tools.DataManager;
 import com.e16din.lightutils.utils.U;
 import com.e16din.ssnetworks.SSListener;
 import com.vk.sdk.VKAccessToken;

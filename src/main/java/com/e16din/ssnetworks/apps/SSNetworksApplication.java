@@ -3,7 +3,7 @@ package com.e16din.ssnetworks.apps;
 import android.app.Application;
 import android.util.Log;
 
-import com.e16din.lightutils.DataManager;
+import com.e16din.lightutils.LightUtils;
 import com.vk.sdk.VKAccessToken;
 import com.vk.sdk.VKAccessTokenTracker;
 import com.vk.sdk.VKSdk;
@@ -28,6 +28,6 @@ public class SSNetworksApplication extends Application {
 
         vkAccessTokenTracker.startTracking();
         VKSdk.initialize(this);
-        DataManager.init(this);
+        LightUtils.init(this);
     }
 }
