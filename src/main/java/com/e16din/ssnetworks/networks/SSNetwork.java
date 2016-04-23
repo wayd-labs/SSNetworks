@@ -12,6 +12,7 @@ import com.e16din.ssnetworks.SSListener;
  * Created by e16din on 27.09.15.
  */
 public abstract class SSNetwork {
+    public static final String TAG = "SSNetworks";
 
     private static Bitmap bitmap;
     private static String text;
@@ -62,5 +63,11 @@ public abstract class SSNetwork {
 
     public static void setListener(SSListener listener) {
         SSNetwork.listener = listener;
+    }
+
+    public interface OnAuthListener {
+        void onSuccess(String accessToken, String userId);
+
+        void onError(String message);
     }
 }

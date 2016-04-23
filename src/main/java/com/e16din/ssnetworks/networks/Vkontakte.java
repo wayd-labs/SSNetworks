@@ -3,9 +3,9 @@ package com.e16din.ssnetworks.networks;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.util.Log;
 
 import com.e16din.lightutils.tools.DataManager;
-import com.e16din.lightutils.utils.U;
 import com.e16din.ssnetworks.SSListener;
 import com.vk.sdk.VKAccessToken;
 import com.vk.sdk.VKCallback;
@@ -71,7 +71,7 @@ public class Vkontakte extends SSNetwork {
                 String error = request.toString() + " attemptNumber"
                         + String.valueOf(attemptNumber) + " totalAttempts"
                         + String.valueOf(totalAttempts);
-                U.e(getClass(), "error: " + error);
+                Log.e(TAG, "error: " + error);
 
                 if (listener != null)
                     listener.onError(error, request);
@@ -82,7 +82,7 @@ public class Vkontakte extends SSNetwork {
                 SSNetwork.getBitmap().recycle();
                 VKApiPhoto photo = ((VKPhotoArray) response.parsedModel).get(0);
 
-                U.d(getClass(), "photo: " + photo);
+                Log.d(TAG, "photo: " + photo);
 
                 VKRequest request = VKApi.wall().post(
                         VKParameters.from(VKApiConst.OWNER_ID, VKSdk.getAccessToken().userId,
@@ -93,7 +93,7 @@ public class Vkontakte extends SSNetwork {
 
             @Override
             public void onError(VKError error) {
-                U.e(getClass(), "error: " + error);
+                Log.e(TAG, "error: " + error);
 
                 if (listener != null)
                     listener.onError((error != null ? error.errorMessage : null), error);
@@ -144,7 +144,7 @@ public class Vkontakte extends SSNetwork {
 
             @Override
             public void onError(VKError error) {
-                U.e(getClass(), "error: " + (error != null ? error.errorMessage : null));
+                Log.e(TAG, "error: " + (error != null ? error.errorMessage : null));
 
                 if (listener != null)
                     listener.onError(error != null ? error.errorMessage : null, error);
@@ -183,14 +183,8 @@ public class Vkontakte extends SSNetwork {
                 }
 
 
-                U.e(getClass(), "error: " + (error != null ? error.errorMessage : null));
+                Log.e(TAG, "error: " + (error != null ? error.errorMessage : null));
             }
         });
-    }
-
-    public interface OnAuthListener {
-        void onSuccess(String accessToken, String userId);
-
-        void onError(String message);
     }
 }

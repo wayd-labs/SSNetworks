@@ -23,13 +23,13 @@ allprojects {
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    buildToolsVersion "23.0.3"
 
     defaultConfig {
-        minSdkVersion 9
+        minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
-        versionName "1.0"
+        versionName "0.2.0"
     }
     buildTypes {
         release {
@@ -40,8 +40,9 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'com.android.support:appcompat-v7:23.3.0'
     compile 'com.android.support:multidex:1.0.1'
-    compile 'com.vk:androidsdk:1.6.2'
-    compile 'com.github.e16din:LightUtils:1.2.5'
+    compile 'com.vk:androidsdk:1.6.5'
+    compile 'com.github.e16din:LightUtils:1.2.7'
+    compile 'com.sromku:simple-fb:4.1.1'
 }

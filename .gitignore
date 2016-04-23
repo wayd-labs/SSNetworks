@@ -1,4 +1,6 @@
 ### Android ###
+
+.DS_Store
 # Built application files
 *.apk
 *.ap_
@@ -17,6 +19,7 @@ gen/
 .gradle/
 build/
 /*/build/
+build/intermediates/
 
 # Ignore Gradle GUI config
 gradle-app.setting
