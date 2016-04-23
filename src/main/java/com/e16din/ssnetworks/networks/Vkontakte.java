@@ -27,7 +27,7 @@ import com.vk.sdk.api.photo.VKUploadImage;
 /**
  * Created by e16din on 27.09.15.
  */
-public class Vkontakte extends SSNetwork {
+public class Vkontakte extends SSNetwork {//todo: move to SSVkontakte module
 
     public static final int ACTION_NONE = -1;
     public static final int ACTION_AUTH = 0;

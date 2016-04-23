@@ -4,8 +4,6 @@ import android.app.Application;
 import android.util.Log;
 
 import com.e16din.lightutils.LightUtils;
-import com.e16din.ssnetworks.R;
-import com.sromku.simple.fb.BuildConfig;
 import com.sromku.simple.fb.Permission;
 import com.sromku.simple.fb.SimpleFacebook;
 import com.sromku.simple.fb.SimpleFacebookConfiguration;
@@ -16,7 +14,7 @@ import com.vk.sdk.VKSdk;
 /**
  * Created by e16din on 12.09.15.
  */
-public class SSNetworksApplication extends Application {
+public abstract class SSNetworksApplication extends Application {
 
     private VKAccessTokenTracker vkAccessTokenTracker = new VKAccessTokenTracker() {
         @Override
@@ -36,11 +34,10 @@ public class SSNetworksApplication extends Application {
         LightUtils.init(this);
 
         Permission[] permissions = new Permission[]{Permission.USER_ABOUT_ME};
-        SimpleFacebookConfiguration configuration = new SimpleFacebookConfiguration.Builder()
-                .setAppId(getString(R.string.facebook_app_id))
-                .setNamespace(BuildConfig.APPLICATION_ID)
-                .setPermissions(permissions)
-                .build();
-        SimpleFacebook.setConfiguration(configuration);
+        SimpleFacebookConfiguration configuration = getSimpleFacebookConfig(permissions);
+        if (configuration != null)
+            SimpleFacebook.setConfiguration(configuration);
     }
+
+    public abstract SimpleFacebookConfiguration getSimpleFacebookConfig(Permission[] permissions);
 }
