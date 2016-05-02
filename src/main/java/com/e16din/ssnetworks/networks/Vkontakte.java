@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.graphics.Bitmap;
 import android.util.Log;
 
-import com.e16din.lightutils.tools.DataManager;
+import com.e16din.datamanager.DataManager;
 import com.e16din.ssnetworks.SSListener;
 import com.vk.sdk.VKAccessToken;
 import com.vk.sdk.VKCallback;

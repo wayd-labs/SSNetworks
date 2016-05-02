@@ -3,7 +3,7 @@ package com.e16din.ssnetworks.apps;
 import android.support.multidex.MultiDexApplication;
 import android.util.Log;
 
-import com.e16din.lightutils.LightUtils;
+import com.e16din.datamanager.DataManager;
 import com.sromku.simple.fb.Permission;
 import com.sromku.simple.fb.SimpleFacebook;
 import com.sromku.simple.fb.SimpleFacebookConfiguration;
@@ -31,7 +31,7 @@ public abstract class SSNetworksMultidexApplication extends MultiDexApplication 
 
         vkAccessTokenTracker.startTracking();
         VKSdk.initialize(this);
-        LightUtils.init(this);
+        DataManager.init(this);
 
         Permission[] permissions = new Permission[]{Permission.USER_ABOUT_ME};
         SimpleFacebookConfiguration configuration = getSimpleFacebookConfig(permissions);
