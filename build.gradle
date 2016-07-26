@@ -44,5 +44,5 @@ dependencies {
     compile 'com.android.support:multidex:1.0.1'
     compile 'com.vk:androidsdk:1.6.5'
     compile 'com.sromku:simple-fb:4.1.1'
-    compile 'com.github.e16din:DataManager:0.1.0'
+    compile 'com.github.wayd-labs:DataManager:0.1.0'
 }
